@@ -1,0 +1,14 @@
+.Playlist {
+    width: 300px;
+  }
+  
+  .Playlist input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .Playlist-save {
+    padding: 10px;
+    width: 100%;
+  }
